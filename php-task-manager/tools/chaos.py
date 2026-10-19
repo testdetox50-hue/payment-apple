@@ -3,7 +3,7 @@
 import argparse
 import json
 import os
-from pathlib impo
+from pathlib import Path
 
 
 def run(action: str, data_dir: Path) -> None:
@@ -63,3 +63,6 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+

@@ -1,4 +1,4 @@
-<?php require dirname(__DIR__) . '/app.php'; ?>
+<?php require dirname(__DIR__) . '/bootstrap.php'; ?>
 <!doctype html>
 <html lang="en">
 <head>
